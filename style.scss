@@ -1,0 +1,31 @@
+@import './components/fonts';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+
+*::selection{
+    color: #fff;
+    background-color: #000;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-color: #f7f7f7;
+}
+
+@import './components/nav';
+@import './components/cursor';
+@import './components/page1';
+@import './components/page2';
+@import './components/page3';
+@import './components/media';
+@import './components/footer';
+
