@@ -7,4 +7,4 @@ This repository contains two good landing page clone created using GSAP and SCSS
 - GSAP
 - SCSS
 
-View Live on - ""
+View Live on - "https://two-good-clone-26.netlify.app/"
